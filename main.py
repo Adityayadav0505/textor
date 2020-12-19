@@ -7,8 +7,8 @@ import win32print
 import win32api
 
 root = Tk()
-root.title('Codemy.com - TextPad!')
-root.iconbitmap('c:/gui/codemy.ico')
+root.title('TexTor')
+root.iconbitmap('./bat.ico')
 root.geometry("1200x710")
 
 
